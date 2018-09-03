@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\usuario\desktop\proyecto 2 lepra\main.cpp
+	<iostream>
+
+1535937717 source:c:\users\usuario\desktop\proyecto 2 lepra\src\arraylist.cpp
+	"Arraylist.h"
+
+1535936645 c:\users\usuario\desktop\proyecto 2 lepra\include\arraylist.h
+
